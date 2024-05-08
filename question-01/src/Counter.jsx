@@ -23,7 +23,7 @@ class Counter extends Component {
             count: 0
         })
     }
-
+    // hello
     render() {
         return (
             <div align="center" className="Counting" >
